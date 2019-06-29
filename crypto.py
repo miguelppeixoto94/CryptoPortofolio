@@ -69,3 +69,4 @@ sheet.update_cell(numLine, 5, actualPrice["BAT"])
 #Valor da ZEC
 sheet.update_cell(numLine, 6, actualPrice["ZEC"])
 '''
+#Feito por Miguel Peixoto
